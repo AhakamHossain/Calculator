@@ -55,10 +55,6 @@ html,body{
   cursor: pointer;
 }
 
-.row5 button:last-child{
-  width: 135px;
-}
-
 #display{
   height: 50px;
   outline: none;
