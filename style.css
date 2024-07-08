@@ -56,6 +56,10 @@ html,body{
 
 }
 
+.row5 button:last-child{
+  width: 130px;
+}
+
 #display{
   height: 50px;
   outline: none;
