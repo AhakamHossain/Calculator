@@ -53,11 +53,11 @@ html,body{
   border-radius: 10px;
   color: white;
   cursor: pointer;
-
 }
 
 .row5 button:last-child{
   width: 135px;
+  display: none;
 }
 
 #display{
