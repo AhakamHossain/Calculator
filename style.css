@@ -70,6 +70,10 @@ html,body{
   background: transparent;
 }
 
+.row5 button:last-child{
+  width: 130px;
+}
+
 @media (max-width: 480px){
 
 .buttons .row button{
